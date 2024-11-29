@@ -1,0 +1,3 @@
+Drag&Drop, 999, 999, "answer", "player"
+Keyboard, 999, 999, "answer", "player"
+Multiplayer, 999, 999, "answer", "player"
