@@ -44,7 +44,6 @@ public abstract class Letter extends JComponent implements MouseListener, FocusL
     @Override
     public void focusLost(FocusEvent e) {}
 
-    // Mouse tiklandiginda calisan metot
     @Override
     public void mouseClicked(MouseEvent e) {
         // Program penceresinde odak isteniyor
